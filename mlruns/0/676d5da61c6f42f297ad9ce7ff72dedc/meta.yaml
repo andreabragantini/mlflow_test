@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Mi%20unidad/PycharmProjects/mlflow_test/mlruns/0/676d5da61c6f42f297ad9ce7ff72dedc/artifacts
+end_time: 1670252371307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 676d5da61c6f42f297ad9ce7ff72dedc
+run_name: fearless-shrew-688
+run_uuid: 676d5da61c6f42f297ad9ce7ff72dedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670252367983
+status: 3
+tags: []
+user_id: Andrea

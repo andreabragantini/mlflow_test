@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Mi%20unidad/PycharmProjects/mlflow_test/mlruns/0/fd97b4ce3d9d4b98bc8332f94263a4e5/artifacts
+end_time: 1670252493895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd97b4ce3d9d4b98bc8332f94263a4e5
+run_name: smiling-fawn-218
+run_uuid: fd97b4ce3d9d4b98bc8332f94263a4e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670252490677
+status: 3
+tags: []
+user_id: Andrea

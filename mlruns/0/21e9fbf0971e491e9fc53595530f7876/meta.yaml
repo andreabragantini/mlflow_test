@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Mi%20unidad/PycharmProjects/mlflow_test/mlruns/0/21e9fbf0971e491e9fc53595530f7876/artifacts
+end_time: 1670255225673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21e9fbf0971e491e9fc53595530f7876
+run_name: valuable-zebra-883
+run_uuid: 21e9fbf0971e491e9fc53595530f7876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670255222747
+status: 3
+tags: []
+user_id: Andrea

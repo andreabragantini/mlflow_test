@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Mi%20unidad/PycharmProjects/mlflow_test/mlruns/0/2dc70d2a378044b8b8d595b917ae7f7c/artifacts
+end_time: 1670255120993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dc70d2a378044b8b8d595b917ae7f7c
+run_name: loud-fly-360
+run_uuid: 2dc70d2a378044b8b8d595b917ae7f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670255118263
+status: 3
+tags: []
+user_id: Andrea
